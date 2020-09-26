@@ -14,11 +14,11 @@
 
 使用443端口：
 
-![443端口图示](https://github.com/mixool/heroku/tree/master/tutorial/img/%E5%AE%A2%E6%88%B7%E7%AB%AFv2RayN-VLESS-443.png)
+![443端口图示](https://raw.githubusercontent.com/mixool/heroku/master/tutorial/img/%E5%AE%A2%E6%88%B7%E7%AB%AFv2RayN-VLESS-443.png)
 
 ***
 
 使用80端口：
 
-![80端口图示](https://github.com/mixool/heroku/tree/master/tutorial/img/%E5%AE%A2%E6%88%B7%E7%AB%AFv2RayN-VLESS-80.png)
+![80端口图示](https://raw.githubusercontent.com/mixool/heroku/master/tutorial/img/%E5%AE%A2%E6%88%B7%E7%AB%AFv2RayN-VLESS-80.png)
 ***
